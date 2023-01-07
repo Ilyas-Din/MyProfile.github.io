@@ -12,7 +12,7 @@
     --txt-secondary: black;
 }
 body{
-    font-family: cursive;
+    font-family: arial;
     background-image: linear-gradient(90deg, cyan, magenta, cyan);
 }
 nav{
